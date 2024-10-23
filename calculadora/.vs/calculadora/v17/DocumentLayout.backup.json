@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fabia\\source\\repos\\calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3F9A93-4346-4833-BBCE-D688823F73F9}|calculadora.csproj|c:\\users\\fabia\\downloads\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3F9A93-4346-4833-BBCE-D688823F73F9}|calculadora.csproj|c:\\users\\fabia\\downloads\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3F9A93-4346-4833-BBCE-D688823F73F9}|calculadora.csproj|c:\\users\\fabia\\downloads\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Downloads\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\fabia\\Downloads\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Form1.Designer.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDsBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:26:56.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fabia\\Downloads\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Form1.cs",
+              "ToolTip": "C:\\Users\\fabia\\Downloads\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Form1.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAUwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:23:30.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fabia\\Downloads\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\Form1.cs",
+              "ToolTip": "C:\\Users\\fabia\\Downloads\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:16:27.161Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
